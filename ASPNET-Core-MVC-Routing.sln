@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingAspNetCoreMvc", "RoutingAspNetCoreMvc\RoutingAspNetCoreMvc.csproj", "{109B9B09-123E-489A-8C19-C59C514C0FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRoutingInAspNetCoreMvc", "CustomRoutingInAspNetCoreMvc\CustomRoutingInAspNetCoreMvc.csproj", "{E7D273C4-8D33-44B8-AD1F-61E4D9EC6903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRouteConstraintInAspNetCoreMvc", "CustomRouteConstraintInAspNetCoreMvc\CustomRouteConstraintInAspNetCoreMvc.csproj", "{6CB5F35F-D5A2-4AD3-AF93-356FC7EE7562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeRoutingInAspNetCoreMvc", "AttributeRoutingInAspNetCoreMvc\AttributeRoutingInAspNetCoreMvc.csproj", "{E1EE978A-E79F-4498-9CED-27683B52F93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109B9B09-123E-489A-8C19-C59C514C0FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109B9B09-123E-489A-8C19-C59C514C0FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109B9B09-123E-489A-8C19-C59C514C0FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109B9B09-123E-489A-8C19-C59C514C0FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D273C4-8D33-44B8-AD1F-61E4D9EC6903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D273C4-8D33-44B8-AD1F-61E4D9EC6903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D273C4-8D33-44B8-AD1F-61E4D9EC6903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D273C4-8D33-44B8-AD1F-61E4D9EC6903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB5F35F-D5A2-4AD3-AF93-356FC7EE7562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB5F35F-D5A2-4AD3-AF93-356FC7EE7562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB5F35F-D5A2-4AD3-AF93-356FC7EE7562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB5F35F-D5A2-4AD3-AF93-356FC7EE7562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EE978A-E79F-4498-9CED-27683B52F93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EE978A-E79F-4498-9CED-27683B52F93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EE978A-E79F-4498-9CED-27683B52F93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EE978A-E79F-4498-9CED-27683B52F93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
